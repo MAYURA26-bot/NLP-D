@@ -207,6 +207,7 @@ This does not mean the earlier result was random. Instead, it shows that differe
 This repository includes:
 
 ```text
+zero_shot_deberta_experiment.ibny
 zero_shot_deberta_experiment.py
 Colab-exported experiment PDF
 zeroshot_deberta_confusion_matrix.png
@@ -215,7 +216,7 @@ README.md
 
 ## How to Run
 
-1. Open the Python script or Colab-exported experiment file.
+1. Open the zero_shot_deberta_experiment ibny file in colab.
 2. Install the required libraries:
 
 ```python
